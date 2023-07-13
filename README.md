@@ -195,7 +195,7 @@ In Home view, all the views button will be available. User will land on specific
 
 ## Executive View
 
-![Executive.gif]()
+![Executive.gif](https://github.com/chandreshgithub1/Business-Insight-360/blob/main/Executive.gif)
 
 
 you can find the full report file here : [Report]()
