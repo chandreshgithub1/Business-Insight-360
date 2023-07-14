@@ -6,9 +6,9 @@ AtliQ Hardware is growing rapidly in the recent years, and they have decided to 
 
 I worked on this project by following the Codebasics PowerBi Course, Link to the course is [here](https://codebasics.io/courses/power-bi-data-analysis-with-end-to-end-project)
 
-[Live Report Link]()
+[Live Report Link](Paste your link here)
 
-[Presentation Link]()
+[Presentation Link](Paste your link here)
 
 ## Tech stacks
 
@@ -157,7 +157,7 @@ Fact table : It will have the data about the transactions
 - Following Good practices of data modeling is must. Refer this page to get to know the good practices [Blog](https://addendanalytics.com/blog/data-modelling-best-practices/)
 - In this project, we have followed Snowfall data modeling method.
 
-<img src="/Data_model.png" class="center">
+<img src="Paste your link here" class="center">
 
 ### Dashboard designing
 
@@ -177,28 +177,28 @@ In Home view, all the views button will be available. User will land on specific
 - Support
 
 ## Home
-![Finace.gif]()
+![Finace.gif](Paste your link here)
 ## Finance View
 
-![Finace.gif](https://github.com/chandreshgithub1/Business-Insight-360/blob/main/Finace.gif)
+![Finace.gif](Paste your link here)
 ## Sales View
 
-![Sales.gif]()
+![Sales.gif](Paste your link here)
 
 ## Marketing View
 
-![Marketing.gif]()
+![Marketing.gif](Paste your link here)
 
 ## Supply chain View
 
-![Supply chain.gif]()
+![Supply chain.gif](Paste your link here)
 
 ## Executive View
 
-![Executive.gif](https://github.com/chandreshgithub1/Business-Insight-360/blob/main/Executive.gif)
+![Executive.gif](Paste your link here)
 
 
-you can find the full report file here : [Report]()
+you can find the full report file here : [Report](Paste your link here)
 
 
 ## Project Outcome
